@@ -1,0 +1,28 @@
+{
+  "name": "storyblok-blog",
+  "version": "1.0.0",
+  "description": "My pioneering Nuxt.js project",
+  "author": "tbach",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^2.6.2",
+    "prettier": "^1.14.2"
+  }
+}
